@@ -1,11 +1,14 @@
 _repo: Se-kolmas-Humoristinen-kertomus-taiteilijaelamasta_53615
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Silvanto, Reino
     birthdate: 1883
     gutenberg_agent_id: '45093'
     url: http://www.gutenberg.org/2009/agents/45093
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53615#Se-kolmas-Humoristinen-kertomus-taiteilijaelamasta
 gutenberg_issued: '2016-11-27'
 gutenberg_type: Text
 identifiers:
